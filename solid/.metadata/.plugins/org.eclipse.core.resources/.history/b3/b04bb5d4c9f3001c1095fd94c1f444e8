@@ -1,0 +1,7 @@
+
+public class Solid {
+	private nome;
+	private cpf;
+
+
+}

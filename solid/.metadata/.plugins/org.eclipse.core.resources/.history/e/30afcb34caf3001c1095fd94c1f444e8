@@ -1,0 +1,7 @@
+
+public class Solid {
+	private String nome;
+	private String cpf;
+
+
+}

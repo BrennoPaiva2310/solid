@@ -1,0 +1,9 @@
+
+public class Solid {
+	private String nome;
+	private String cpf;
+
+	public Solid() {
+		// TODO Auto-generated constructor stub
+	}
+}

@@ -1,0 +1,17 @@
+
+public class Solid {
+	private String nome;
+	private String cpf;
+
+	public Solid() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Solid(String nome, String cpf) {
+		super();
+		this.nome = nome;
+		this.cpf = cpf;
+	}
+	
+	
+}
